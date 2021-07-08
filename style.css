@@ -1,0 +1,28 @@
+div{
+    background-color: #598997;
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+#boton{
+    padding: 15px;
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+}
+
+input{
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #b3b3b3;
+}
+
+.cbxBancos{
+    border-radius: 3px;
+    background-color: aqua;
+}
+
